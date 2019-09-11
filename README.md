@@ -10,7 +10,7 @@ Details can be found at [Housing_price_analysis.ipynb](Housing_price_analysis.ip
 
 ## Required packages
 
-In order to run above notebook, you would need the following packages:
+In order to run the above notebook, you would need the following packages:
 
 1. Pandas
 2. Matplotlib
