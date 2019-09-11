@@ -2,7 +2,7 @@
 
 <h1 align="center">Visual-Aided House Price Prediction</h1>
 
-This analysis is a toy example on how to leverage visual features to improve house price prediction accuracy. The analysis contains two main steps: first we try to predict house price using just textual features, then we use deep convoluted neural networks to extract additional features from house images and show that it can significantly increase model accuracy.
+This analysis is a toy example on how to leverage visual features to improve house price prediction accuracy. The analysis contains two main parts: first we try to predict house price using just textual features, then we use deep convoluted neural networks to extract additional features from house images and show that it can significantly increase model accuracy.
 
 ## Analysis
 
