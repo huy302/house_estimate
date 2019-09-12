@@ -12,6 +12,7 @@ Details can be found at [Housing_price_analysis.ipynb](Housing_price_analysis.ip
 
 In order to run the above notebook, you would need the following packages:
 
+```js
 1. Pandas
 2. Matplotlib
 3. Numpy
@@ -19,6 +20,7 @@ In order to run the above notebook, you would need the following packages:
 5. Scikit-Learn
 6. Tensorflow
 7. Keras
+```
 
 ## Dataset
 
