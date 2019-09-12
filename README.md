@@ -30,4 +30,4 @@ This is a benchmark dataset for houses prices that contains both visual and text
 
 ## Author
 
-* Huy Nguyen
+* [Huy Nguyen](https://huy302.github.io)
